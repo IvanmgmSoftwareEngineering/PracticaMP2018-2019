@@ -5,10 +5,11 @@
  */
 package Vista;
 
-/**
- *
- * @author img
- */
-public class Observer {
+import Modelo.GameEvent;
+
+
+public interface Observer {
+    
+    void notifyEvent(GameEvent evento);
     
 }

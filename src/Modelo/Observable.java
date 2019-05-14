@@ -4,11 +4,13 @@
  * and open the template in the editor.
  */
 package Modelo;
+import Vista.Observer;
 
-/**
- *
- * @author img
- */
-public class Observable {
+public interface Observable {
+    
+    void addObserver(Observer observador);
+    void removeObserver(Observer observador);
+    
     
 }
+   
