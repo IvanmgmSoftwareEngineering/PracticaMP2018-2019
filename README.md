@@ -2,8 +2,13 @@
 Realizada por:
   - MARKOS AGUIRRE ELORZA
   - IVÁN MARTÍN GÓMEZ
+  
 
-Práctica MP del curso 2018-2019 que incluye SRS, README, APP programas con POO utilizando MVC con Observer
+
+Práctica MP del curso 2018-2019 que incluye:
+  - README (EL PRESENTE DOCUMENTO)
+  - SRS
+  - APP (programas realizados con POO utilizando los patrones MVC con Observer)
 
 JUEGO DE LA SERPIENTE:
   ESTE JUEGO ES MUY PARECIDO AL DESARROLLADO POR NOKIA EN SUS DISPOSITIVOS.
